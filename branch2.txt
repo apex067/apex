@@ -1,0 +1,1 @@
+i made mistake in creating the brach2 like i didnot checkout from main and pushed the file to branch2 while i commited it to main
